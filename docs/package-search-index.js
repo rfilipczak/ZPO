@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"builder"},{"l":"dekoracja"},{"l":"fabryka_abstrakcyjna"},{"l":"singleton"},{"l":"stol"}];updateSearchResults();
